@@ -1,0 +1,259 @@
+= 暗黑中的黑话整理(术语、缩写)
+
+暗黑玩家之间的交流经常出现一些英文单词缩写、术语、黑话。
+
+其原因最开始是因为游戏不支持中文输入法，迫使玩家用必须英语交流； 后来虽然有一些插件能让玩家输入中文，但是玩家已经习惯这些交流术语了，并且这些术语通常更容易输入，所以就被延续下来了。
+
+新人刚刚接触暗黑时，经常会被这些乱七八糟的英文给搞的晕头转向，例如：
+
+* buy 940def 7+
+* buy glf
+* sell 10fcr 4r15 ring
+
+所以在这里整理一些常见的术语、缩写，提供给玩家查询。欢迎补充。
+
+== 数字
+
+* 1（bus用语，安全）
+* 2（bus用语，危险）
+* 3bar/3BB（指act5 q5的三个野蛮人守护神）
+* 3q（Thank you)
+* 40/15（指40ed/15ias jewel或者40ed/15max damage jewel）
+* 5小队（杀baal途中，baal的5次召唤怪物）
+* 7＋（漆甲，通常指塔拉夏的守护套装盔甲）
+* (X)S（X个孔，例如: 4s armor就是4孔盔甲）
+* (X)\#（符文编号，28# 就是28号符文Lo）
+
+== A
+
+* acc（account/account Name 帐号）
+* alvl（affix level词缀等级）
+* ama/amz/zon（Amazon 亚玛逊女战士）
+* amu（amulet 项链）
+* ar（attact rating 攻击准确率）
+* asn（Assassin 刺客，记住别用ass啊2333）
+* as（attack speed 攻击速度）
+* atk（attack 攻击，有时也指攻击力）
+* act(1-5)（如：act2 第2幕游戏场景）
+* ap+（执政官铠甲，通常白色的3孔 4孔的用来做rune word）
+
+== B
+
+* ban acc（官网GM封闭某些玩家的帐号，理由是他们在游戏中使用了一些官网禁止的外挂）
+* bar/barb（Barbarian 野蛮人）
+* bo（battle orders野蛮人的战斗体制技能）
+* bbs（论坛）
+* Blizzard（暴雪娱乐公司）
+* Blz（女巫的暴风雪技能的简称）
+* blk/block（chance of blocking 格挡机率）
+* BN（Battle.Net）
+* bot（robot的简写，通指各种自动机器人的游戏外挂）
+* Bow（弓类）
+* bowama（使用弓[bow]或十字弓[crossbow]类武器为主要攻击手段的亚马逊）
+* boots（靴类）
+* belt（腰带）
+* bug（程序设计上的错误，漏洞等）
+* bus（游戏中带新人快速过关的人）
+* bh（指圣骑士祝福之锤Blessed Hammer）
+
+== C
+
+* cb（colossus blade/crushing blow 决定性打击/charged bolt）
+* charm（护身符，放在物品栏中起作用）
+* char（character 角色）
+* coh（chain of honor 神符之语-荣耀之链）
+* cm（cold matery,女巫的冰系掌握技能）
+* cr(cold resistance 抗寒)
+* cow（牛，KC=kill cow 杀牛的意思）
+* Crossbow（十字弓）
+* cs（critical strike 双倍打击/colossus sword/critical shot/cobra strike）
+* CtA （110新神符之语，Call to Arms，战争召唤）
+* cube（the Horadric Cube 赫拉迪克方块，常用作动词指用cube转化或者合成物品的行为）
+
+== D
+
+* d2（diablo2 暗黑破坏神2）
+* dam/dmg（damage 伤害力）
+* DC（diablo-clone 超级DIABLO/dragon claw，此boss掉暗金色小护身符）
+* def（defence 防御力/防御率）
+* dex（dexterity 敏捷值）
+* down（通常指服务器当机）
+* dru（Druid 德鲁伊）
+* dur（durability，耐久度）
+* dr（damage reduce 减轻物理伤害， 俗称物免）
+* ds（deadly strike 致命一击/地上）
+* dual/dual leech（双吸，既能吸mana又能吸life的装备）
+
+== E
+
+* ed（enhanced damage 增强伤害/enhanced defense 增强防御力）
+* en/ene/eng（energy 精力值）
+* eth（通常指不能修复的装备）
+* exp（experience 经验值）
+
+== F
+
+* faster run/walk（加快奔跑/行走速度）
+* fcr（faster cast rate 加快施法速度）
+* fdr（faster block rate 加快盾牌格挡后的恢复速度）
+* fd（fire damage 火伤害）
+* fr(fire resistance抗火)
+* fhr（faster hit recovery 加快受攻击之后的恢复速度）
+* fe（fire enhanched 火焰强化）
+* frw（faster run/walk）
+
+== G
+
+* gc（grand charm 超大型护身符）
+* gm（game master）
+
+== H
+
+* HC（hardcore 专家模式，死了就不能复活）
+* hell（指地狱难度）
+* HP（hit points 血，生命值）
+
+== I
+
+* ias（increased attack speed 加快攻击速度）
+* IK（Immortal King 不朽之王，野蛮人精华套装的简称）
+* ire（通常指Skullder's Ire Russet Armor，skill+1的mf盔甲）
+* ist（24号神符， 著名的mf神符，1.10战网标准流通货币）
+* itd（ignore target's defence 无视目标防御力）
+* ith（某种利用hack工具制造的Bug物品，多为武器，具有极为变态的伤害值及属性）
+
+== J
+
+* jew/jw（jewel 珠宝）
+* jp（极品:该物品的属性都达到理论上的最值）
+* js（jian shang 奸商）
+
+== K
+
+* k（kill 杀，km/kb/kd/kp 指mf各boss）
+* K3C（K瘸子,杀崔凡克的3个金怪议员）
+* KP（进ACT5安亚旁边的红门杀里面的金怪--暴皮）
+* K3BB（杀3个远古人,进世界之石杀巴而前一定要完成的任务 资料片等级限制是20/40/60,不够级不能完成）
+* kb（knock back 击退，最近流行翻译为杀巴尔前5小队怪升级）
+* key（40级没PASS PT的人物 杀了3BB,没杀巴尔）
+
+== L
+
+* lc（large charm 大型护身符）
+* ld（lighting damage 电伤害）
+* lr（lightning resistance 电系抵抗）
+* LL（leech life 通常指有吸血属性的装备 ）
+* lm（leech mana 通常指有吸魔属性的装备）
+* leg（D2中指维特之腿，开cow level的必须品）
+* le（lightning enhanched 闪电强化）
+* lv/lev/lvl（level 等级）
+
+== M
+
+* mdr（magic damage reduce 减轻魔法伤害）
+* md（magic damage 魔法伤害）
+* mana（法力值）
+* max（最大；加满）
+* wmj/wmd/wmk（物免甲/物免盾/物免盔）
+* mfsc（带mf值的小型护符，一般指7% mf的）
+* mf（magic find 获得魔法物品机会）
+* min（最小）
+* mod（属性）
+* mp（mana points 魔力值）
+* mr（magic resistance 魔法抵抗）
+* mp+（法师铠甲 白色15ed无孔3孔有用）
+
+== N
+
+* n（name 通常指游戏房间名）
+* nec/necro（Necromancer 男巫）
+* newbie（新手，新手）
+* nor（normal 普通难度）
+* npc（non player character 非玩家角色/也可以指把装备卖给npc的动作）
+* nova（女巫的闪电环技能，又称新星）
+
+== O
+
+* oak （oak sage 德鲁伊的橡木智者精灵）
+* omg（oh my god 天啊）
+* orb（球类，通常指 sor专属武器眼球或翻译成sor的冰封球技能）
+
+== P
+
+* pal/pala/pally（Paladin 圣武士，圣骑士）
+* pd（poison damage 毒素伤害）
+* pdsc（增加毒伤害的小型护符，lr pker的最爱，如无特别说明，一般指100毒伤害的小护符）
+* pg（perfect gems 完美宝石，最高级宝石，包括完美骷髅）
+* ping（描述网速的一个值，PING越高责网速越慢）
+* pi（physical immune 物理免疫）
+* pk（玩家之间的战斗）
+* plz（please 请）
+* pr（poison resistance毒抗）
+* pvc（player vs computer 玩家打电脑，过关等）
+* pvp（player vs player 玩家之间有规则的公平战斗）
+* pw（password 密码）
+
+== Q
+
+* qh（sor的强化技能，通常给低级char使用，提高伤害，加快练级速度）
+
+== R
+
+* rt（如题）
+* ring（戒指）
+* rob（抢，肉，一般指朋友或者熟人之间互相要好装备--不要对不熟悉或者非朋友要东西）
+* req（required/requirement 装备的要求，str，dex，lv等）
+* res/resist（resistance 抗性，四防，通常有人说4R）
+* rp（ren pin 人品，运气的意思）
+* rr（act4第2个任务敲石头）
+* rune（神符的总称）
+* rw（rune word 神符之语）
+
+== S
+
+* skill（技能）
+* sc（small charm 小护身符）
+* sd/std（standard 普通模式，相对于hardcord，ladder模式而言）
+* shako（通常指Harlequin Crest Shako，暗金军帽）
+* slvl（skill level 技能等级）
+* soj（the Stone of Jordan Ring 乔丹之石）
+* sor/sorc（Sorceress 女巫）
+* stamina（耐力值）
+* sf（女巫的静电场技能）
+* str（strength 力量值）
+* sa+（神圣盔甲）
+
+== T
+
+* tlx（塔拉夏，sor的绿色套装）
+* tc（trade channel 交易频道/怪物的财宝阶层）
+* tp（teleport 女巫的传送技能）
+* tp+（神符之语 谜团，有+1传送技能）
+* th（土豪， 指拥有大量财产的人）
+* tt（Titan's Revenge-Ceremonial Javelin 泰坦的复仇-祭奠标枪）
+
+== U
+
+* UGC（吉黑得的运气-超大型护身符）
+* uni（unique 暗金物品）
+* unid（unidentify 未鉴定）
+* USC（Annihilus-Small Charm毁灭-小护身符）
+
+== V
+
+* vit（vitality 活力值）
+* vf（very fast 非常快的攻击速度）
+
+== W
+
+* wf（Windfroce Hydra Bow风之力-九头蛇弓，1.09神器）
+* wp（waypoint 传送点）
+* wt（战争之旅，通常用来MF穿的鞋子）
+
+== Y
+
+* y（yes 是的/why 为什么）
+
+== Z
+
+* zealpal（使用热诚技能为主要攻击技能的圣骑士）
