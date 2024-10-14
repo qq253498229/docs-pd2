@@ -14,13 +14,13 @@
 * 黄金物品也能使用手工配方进行合成；
 * 添加了一些新的手工配方：吸血、丰饶、闪耀。
 
-详情请查看Wiki上的 https://wiki.projectdiablo2.cn/wiki/Crafting[手工介绍]。
+详情请查看Wiki上的 https://wiki.projectdiablo2.cn/wiki/Crafting[手工介绍,window=_blank]。
 
 == 腐化
 
-腐化是PD2在原版基础上做出的更新，类似 https://poe.qq.com[POE(流放之路)] 的“瓦尔系统”，需要消耗世界之石碎片在魔盒内进行合成。
+腐化是PD2在原版基础上做出的更新，类似 https://poe.qq.com[POE(流放之路),window=_blank] 的“瓦尔系统”，需要消耗世界之石碎片在魔盒内进行合成。
 
-详情请查看Wiki上的 https://wiki.projectdiablo2.cn/wiki/Corruptions[腐化介绍]。
+详情请查看Wiki上的 https://wiki.projectdiablo2.cn/wiki/Corruptions[腐化介绍,window=_blank]。
 
 需要注意的是，腐化不光可以针对装备，也可以针对T图。
 
@@ -53,7 +53,7 @@ A2BOSS督瑞尔(虫子)使用的是A5BOSS巴尔相同的掉落。
 
 == 地图
 
-地图(俗称T图)，是PD2在原版基础上做出的更新，类似 https://poe.qq.com[POE(流放之路)] 的“异界地图”，是游戏中很重要的一个farm场景。 详情请查看Wiki上的 https://wiki.projectdiablo2.cn/wiki/Maps[地图介绍]。
+地图(俗称T图)，是PD2在原版基础上做出的更新，类似 https://poe.qq.com[POE(流放之路),window=_blank] 的“异界地图”，是游戏中很重要的一个farm场景。 详情请查看Wiki上的 https://wiki.projectdiablo2.cn/wiki/Maps[地图介绍,window=_blank]。
 
 T图分为T1、T2、T3以及特殊的T4四个等级。场景等级分别为87/88/89/90级。
 T图与原版游戏相比，区域等级更高，能够出游戏的全部物品，所以也是游戏后期主要的farm场景。
@@ -99,6 +99,6 @@ T图与原版游戏相比，区域等级更高，能够出游戏的全部物品�
 
 == 参考资料
 
-* link:https://www.reddit.com/r/ProjectDiablo2/comments/mrsf67/guide_endgame_basics_to_pd2[reddit帖子:[Guide\] End-Game Basics to PD2]
-* link:https://wiki.projectdiablo2.cn/wiki/%E9%A6%96%E9%A1%B5[PD2国服Wiki]
-* link:https://qm.qq.com/cgi-bin/qm/qr?k=cgdOh0UaPRz1bEBBG3-o9EQVtkq6cSgv&jump_from=webapi[QQ群(693091795)] 内大佬指点
+* link:https://www.reddit.com/r/ProjectDiablo2/comments/mrsf67/guide_endgame_basics_to_pd2[reddit帖子:[Guide\] End-Game Basics to PD2,window=_blank]
+* link:https://wiki.projectdiablo2.cn/wiki/%E9%A6%96%E9%A1%B5[PD2国服Wiki,window=_blank]
+* link:https://qm.qq.com/cgi-bin/qm/qr?k=cgdOh0UaPRz1bEBBG3-o9EQVtkq6cSgv&jump_from=webapi[QQ群(693091795),window=_blank] 内大佬指点
