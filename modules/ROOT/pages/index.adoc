@@ -1,8 +1,8 @@
 = 主页
 
-本文是萌新体验PD2时总结的经验，希望可以给新人提供一些帮助。
+本文是萌新体验PD2时总结的经验，希望可以给同样的萌新提供一些帮助。
 
 PD2是一群暗黑粉丝基于原版1.13c基础上制造的一款MOD。 旨在保持《暗黑破坏神2毁灭之王(LoD)》的原版体验，并提供持续不断的更新，就像开发从未停止一样。
 
-这里是 https://wiki.projectdiablo2.cn/wiki/%E9%A6%96%E9%A1%B5[PD2国服Wiki,window=_blank]，常用资料常见问题都可以在Wiki里找到；以及 https://qm.qq.com/cgi-bin/qm/qr?k=cgdOh0UaPRz1bEBBG3-o9EQVtkq6cSgv&jump_from=webapi[国服交流QQ群,window=_blank]。
+这里是 https://wiki.projectdiablo2.cn/wiki/%E9%A6%96%E9%A1%B5[PD2国服Wiki,window=_blank]，常用资料常见问题都可以在Wiki里找到，是玩家最常用的站点；以及 https://qm.qq.com/cgi-bin/qm/qr?k=cgdOh0UaPRz1bEBBG3-o9EQVtkq6cSgv&jump_from=webapi[国服交流QQ群,window=_blank]，这里是国服玩家的交流中心，在里面可以和许多PD2互相交流学习。
 
