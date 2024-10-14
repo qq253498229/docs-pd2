@@ -8,5 +8,6 @@
 ** link:https://qm.qq.com/cgi-bin/qm/qr?k=cgdOh0UaPRz1bEBBG3-o9EQVtkq6cSgv&jump_from=webapi[QQ群693091795,window=_blank]
 ** link:https://www.kookapp.cn/app/channels/8583678321857063/9084513783538225[KOOK（原 开黑啦）,window=_blank]
 ** link:https://gitee.com/consolelog/docs-pd2[本站源代码,window=_blank]
+** link:https://www.projectdiablo2.cn/market[交易网站,window=_blank]
 * 未完成页面
 ** xref:doc/basics.adoc[]
