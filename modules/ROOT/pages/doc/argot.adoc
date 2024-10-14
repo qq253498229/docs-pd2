@@ -24,6 +24,14 @@
 * (X)S（X个孔，例如: 4s armor就是4孔盔甲）
 * (X)\#（符文编号，28# 就是28号符文Lo）
 
+== 其它
+
+* CEO（国服开发人员，咱们的天！）
+* 小黑（超级暗黑破坏神，掉落最高28#符文以及其它物品，单人房间卖暗金/绿装有5%几率出现）
+* 大黑（超级暗黑破坏神，掉落毁灭护身符，门票开启）
+* 大马（拉斯玛，最终BOSS之一）
+* 大狼（MF群友第一人，大马人头贡献者，这里我先赞助一个1#给他做刚毅）
+
 == A
 
 * acc（account/account Name 帐号）
@@ -83,6 +91,7 @@
 * dr（damage reduce 减轻物理伤害， 俗称物免）
 * ds（deadly strike 致命一击/地上）
 * dual/dual leech（双吸，既能吸mana又能吸life的装备）
+* dt（掉落，2dt即为双倍掉落）
 
 == E
 
@@ -106,12 +115,14 @@
 
 * gc（grand charm 超大型护身符）
 * gm（game master）
+* GV（Gul Value，交易单位之一，指25号符文古尔）
 
 == H
 
 * HC（hardcore 专家模式，死了就不能复活）
 * hell（指地狱难度）
 * HP（hit points 血，生命值）
+* HR（high rune高级符文，交易单位之一，通常指28号符文罗）
 
 == I
 
@@ -213,6 +224,7 @@
 
 * skill（技能）
 * sc（small charm 小护身符）
+* sc（soft core，软核模式，对应HC的硬核模式，也称为标准模式）
 * sd/std（standard 普通模式，相对于hardcord，ladder模式而言）
 * shako（通常指Harlequin Crest Shako，暗金军帽）
 * slvl（skill level 技能等级）
@@ -222,6 +234,7 @@
 * sf（女巫的静电场技能）
 * str（strength 力量值）
 * sa+（神圣盔甲）
+* sell（卖东西，玩家之间的交易）
 
 == T
 
@@ -249,6 +262,8 @@
 * wf（Windfroce Hydra Bow风之力-九头蛇弓，1.09神器）
 * wp（waypoint 传送点）
 * wt（战争之旅，通常用来MF穿的鞋子）
+* wp up（way point up指的是飞官点了小站让其他队员踩点占门 并回复）
+* wss（世界之石碎片，腐化消耗品）
 
 == Y
 
