@@ -1,5 +1,5 @@
 * xref:doc/basics.adoc[]
-* Build
+* Build推荐
 ** xref:sor/starter-mf-sor.adoc[]
 * xref:doc/faq.adoc[]
 * xref:doc/argot.adoc[]
@@ -11,5 +11,23 @@
 ** link:https://gitee.com/consolelog/docs-pd2[本站源代码,window=_blank]
 ** link:https://www.projectdiablo2.cn/market[国服交易网站,window=_blank]
 ** link:https://wap.gamersky.com/gl/Content-1428532.html[暗黑原版场景等级以及金怪对照,window=_blank]
-// * 未完成页面
-// ** xref:doc/basics.adoc[]
+* 未完成占位
+** 法师卡位杀虫子
+** 法师BOSS:九头蛇
+** 法师T图:顶球电新星
+** 法师T图:顶球冰新星
+** 法师T图:冰枪
+** 法师T图:陨石
+** 亚马逊:开荒
+** 亚马逊:召唤
+** 死灵T图:尸爆
+** 死灵BOSS:毒匕首
+** 亚马逊T图:火焰箭
+** 德鲁伊BOSS:狂怒
+** 德鲁伊T图:火山
+** 德鲁伊T图:狂犬病
+** 德鲁伊T图:极地风暴+暴风
+** 德鲁伊T图:圣火冲锋(火焰号叫+飞龙)
+** 德鲁伊T图:庇护所冲锋(单手+盾)
+** 刺客T图:物理刀刃陷阱
+** 刺客T图:火焰复苏陷阱
