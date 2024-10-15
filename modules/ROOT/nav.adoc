@@ -1,13 +1,15 @@
+* xref:doc/basics.adoc[]
 * Build
 ** xref:sor/starter-mf-sor.adoc[]
 * xref:doc/faq.adoc[]
 * xref:doc/argot.adoc[]
 * 外链
 ** link:https://wiki.projectdiablo2.cn/wiki/%E9%A6%96%E9%A1%B5[国服Wiki,window=_blank]
-** link:https://betweenwalls.github.io/portal/?v=PD2[加点模拟器,window=_blank]
+** link:https://betweenwalls.github.io/portal/?v=PD2[PD2加点模拟器,window=_blank]
 ** link:https://qm.qq.com/cgi-bin/qm/qr?k=cgdOh0UaPRz1bEBBG3-o9EQVtkq6cSgv&jump_from=webapi[QQ群693091795,window=_blank]
 ** link:https://www.kookapp.cn/app/channels/8583678321857063/9084513783538225[KOOK（原 开黑啦）,window=_blank]
 ** link:https://gitee.com/consolelog/docs-pd2[本站源代码,window=_blank]
-** link:https://www.projectdiablo2.cn/market[交易网站,window=_blank]
-* 未完成页面
-** xref:doc/basics.adoc[]
+** link:https://www.projectdiablo2.cn/market[国服交易网站,window=_blank]
+** link:https://wap.gamersky.com/gl/Content-1428532.html[暗黑原版场景等级以及金怪对照,window=_blank]
+// * 未完成页面
+// ** xref:doc/basics.adoc[]
