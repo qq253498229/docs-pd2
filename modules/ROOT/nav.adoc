@@ -1,4 +1,5 @@
 * xref:doc/basics.adoc[]
+* xref:doc/starter.adoc[]
 * Build推荐
 ** xref:sor/starter-mf-sor.adoc[法师MF:*新手推荐]
 * xref:doc/faq.adoc[]
@@ -12,7 +13,6 @@
 ** link:https://www.projectdiablo2.cn/market[国服交易网站,window=_blank]
 ** link:https://wap.gamersky.com/gl/Content-1428532.html[暗黑原版场景等级以及金怪对照,window=_blank]
 * 未完成占位
-** xref:doc/starter.adoc[]
 ** xref:ama/starter.adoc[]
 ** 法师卡位杀虫子
 ** 法师BOSS:九头蛇
