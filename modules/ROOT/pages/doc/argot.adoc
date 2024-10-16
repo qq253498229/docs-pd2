@@ -45,7 +45,7 @@
 * amu（amulet 项链）
 * ar（attact rating 攻击准确率）
 * asn（Assassin 刺客，记住别用ass啊2333）
-* as（attack speed 攻击速度）
+* as（attack speed 攻击速度，一般ias比较常用）
 * atk（attack 攻击，有时也指攻击力）
 * a/act(1-5)（如：a2 第2幕游戏场景）
 * ap+（执政官铠甲，通常白色的3孔 4孔的用来做rune word）
@@ -68,6 +68,7 @@
 * boots（靴类）
 * belt（腰带）
 * bug（程序设计上的错误，漏洞等）
+* bug鞋（指骨髓行走暗金鞋，老版本这个鞋有bug，可以提供技能协同加成，现在已经修复了。PD2直接移除了聚气词条）
 * bus（游戏中带新人快速过关的人）
 * bh（指圣骑士祝福之锤Blessed Hammer）
 * bp（bone prison 死灵法师的骨牢）
