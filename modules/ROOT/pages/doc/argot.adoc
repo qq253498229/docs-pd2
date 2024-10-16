@@ -14,15 +14,20 @@
 
 == 数字
 
-* 1（bus用语，安全）
-* 2（bus用语，危险）
+* 1（bus用语，安全。通常指进传送门，或者开小站等等，提示小号注意）
+* 2（bus用语，危险。带小号的时候如果bus打2，小号就要注意了，有传送门也不能进，要等bus说明安全才能进）
 * 3bar/3BB（指act5 q5的三个野蛮人守护神）
 * 3q（Thank you)
+* 3/20/20（指+3最大伤害+20准确+20生命的小护身符）
 * 40/15（指40ed/15ias jewel或者40ed/15max damage jewel）
+* 313/451（指+313/451毒素伤害的小护身符）
+* 5/5（指属性为5%伤害和-5%敌人抗性的暗金珠宝彩虹刻面，5/5电就是电属性）
 * 5小队（杀baal途中，baal的5次召唤怪物）
-* 7＋（漆甲，通常指塔拉夏的守护套装盔甲）
+* 615（指符文之语怨恨，需要6#+1#+5#，开荒过程中常做）
+* 7+（漆甲，通常指塔拉夏的守护套装盔甲）
 * (X)S（X个孔，例如: 4s armor就是4孔盔甲）
 * (X)\#（符文编号，28# 就是28号符文Lo）
+* (X)pp（8pp就是8人游戏）
 
 == 其它
 
@@ -42,7 +47,7 @@
 * asn（Assassin 刺客，记住别用ass啊2333）
 * as（attack speed 攻击速度）
 * atk（attack 攻击，有时也指攻击力）
-* act(1-5)（如：act2 第2幕游戏场景）
+* a/act(1-5)（如：a2 第2幕游戏场景）
 * ap+（执政官铠甲，通常白色的3孔 4孔的用来做rune word）
 
 == B
@@ -50,12 +55,14 @@
 * ban acc（官网GM封闭某些玩家的帐号，理由是他们在游戏中使用了一些官网禁止的外挂）
 * bar/barb（Barbarian 野蛮人）
 * bo（battle orders野蛮人的战斗体制技能）
+* bd（build 玩法、流派、配装的统称）
 * bbs（论坛）
 * Blizzard（暴雪娱乐公司）
 * Blz（女巫的暴风雪技能的简称）
 * blk/block（chance of blocking 格挡机率）
 * BN（Battle.Net）
 * bot（robot的简写，通指各种自动机器人的游戏外挂）
+* botd（Breath of the Dying 符文之语死亡呼吸）
 * Bow（弓类）
 * bowama（使用弓[bow]或十字弓[crossbow]类武器为主要攻击手段的亚马逊）
 * boots（靴类）
@@ -63,15 +70,22 @@
 * bug（程序设计上的错误，漏洞等）
 * bus（游戏中带新人快速过关的人）
 * bh（指圣骑士祝福之锤Blessed Hammer）
+* bp（bone prison 死灵法师的骨牢）
+* bq（标枪的拼音，亚马逊常用，bq板子指的是+1标枪技能的超大护身符）
 
 == C
 
 * cb（colossus blade/crushing blow 决定性打击/charged bolt）
+* cb头（吉永之脸，+35cb属性，孤儿的呼唤套装头盔部分，也叫孤儿头）
+* cbf（cannot be frozen 无法冰冻）
 * charm（护身符，放在物品栏中起作用）
+* chaos（A4混沌庇护所，俗称超市）
 * char（character 角色）
+* coa（Crown of Ages，年纪之冠，四神器之一）
 * coh（chain of honor 神符之语-荣耀之链）
 * cm（cold matery,女巫的冰系掌握技能）
 * cr(cold resistance 抗寒)
+* cd(cold damage 冰系伤害)
 * cow（牛，KC=kill cow 杀牛的意思）
 * Crossbow（十字弓）
 * cs（critical strike 双倍打击/colossus sword/critical shot/cobra strike）
@@ -81,6 +95,7 @@
 == D
 
 * d2（diablo2 暗黑破坏神2）
+* d2x（暗黑2的毁灭之王资料片，和lod一样）
 * dam/dmg（damage 伤害力）
 * DC（diablo-clone 超级DIABLO/dragon claw，此boss掉暗金色小护身符）
 * def（defence 防御力/防御率）
@@ -89,9 +104,10 @@
 * dru（Druid 德鲁伊）
 * dur（durability，耐久度）
 * dr（damage reduce 减轻物理伤害， 俗称物免）
-* ds（deadly strike 致命一击/地上）
+* ds（deadly strike 致命一击。也指东西扔地上了）
 * dual/dual leech（双吸，既能吸mana又能吸life的装备）
 * dt（掉落，2dt即为双倍掉落）
+* dy（地狱难度）
 
 == E
 
@@ -99,6 +115,8 @@
 * en/ene/eng（energy 精力值）
 * eth（通常指不能修复的装备）
 * exp（experience 经验值）
+* es（Energy Shield，能量护盾，法师技能顶球）
+* em（噩梦难度）
 
 == F
 
@@ -109,13 +127,14 @@
 * fr(fire resistance抗火)
 * fhr（faster hit recovery 加快受攻击之后的恢复速度）
 * fe（fire enhanched 火焰强化）
-* frw（faster run/walk）
+* frw（faster run/walk 高跑）
 
 == G
 
 * gc（grand charm 超大型护身符）
 * gm（game master）
 * GV（Gul Value，交易单位之一，指25号符文古尔）
+* GG（good game，也指毕业装备，海景房，大货）
 
 == H
 
@@ -123,6 +142,7 @@
 * hell（指地狱难度）
 * HP（hit points 血，生命值）
 * HR（high rune高级符文，交易单位之一，通常指28号符文罗）
+* HSP（海蛇皮，暗金衣服）
 
 == I
 
@@ -141,7 +161,9 @@
 
 == K
 
-* k（kill 杀，km/kb/kd/kp 指mf各boss）
+* k（kill 杀，ka/km/kb/kd/kp 指mf各boss）
+* KC（k牛场，A1用怀特假腿和回城书开的红门）
+* KN（K尼拉塞克，A5安雅红门）
 * K3C（K瘸子,杀崔凡克的3个金怪议员）
 * KP（进ACT5安亚旁边的红门杀里面的金怪--暴皮）
 * K3BB（杀3个远古人,进世界之石杀巴而前一定要完成的任务 资料片等级限制是20/40/60,不够级不能完成）
@@ -158,6 +180,7 @@
 * leg（D2中指维特之腿，开cow level的必须品）
 * le（lightning enhanched 闪电强化）
 * lv/lev/lvl（level 等级）
+* lod（暗黑2资料片Lord of Destruction毁灭之王）
 
 == M
 
@@ -165,7 +188,6 @@
 * md（magic damage 魔法伤害）
 * mana（法力值）
 * max（最大；加满）
-* wmj/wmd/wmk（物免甲/物免盾/物免盔）
 * mfsc（带mf值的小型护符，一般指7% mf的）
 * mf（magic find 获得魔法物品机会）
 * min（最小）
@@ -176,7 +198,8 @@
 
 == N
 
-* n（name 通常指游戏房间名）
+* n（name 通常指游戏房间名，n=?就是在问你房间号多少）
+* ng（new game或next game，通常指退出重建房间并且房间号+1，例如dykb1的ng就是dykb2）
 * nec/necro（Necromancer 男巫）
 * newbie（新手，新手）
 * nor（normal 普通难度）
@@ -191,6 +214,7 @@
 
 == P
 
+* pass（指过剧情，helppass就是求大佬帮忙过剧情）
 * pal/pala/pally（Paladin 圣武士，圣骑士）
 * pd（poison damage 毒素伤害）
 * pdsc（增加毒伤害的小型护符，lr pker的最爱，如无特别说明，一般指100毒伤害的小护符）
@@ -203,6 +227,8 @@
 * pvc（player vs computer 玩家打电脑，过关等）
 * pvp（player vs player 玩家之间有规则的公平战斗）
 * pw（password 密码）
+* PET（雇佣兵，米山，A2PET就是之第二幕城镇中雇佣的伙伴。也指召唤BD所召唤的宠物）
+* pt（普通难度）
 
 == Q
 
@@ -213,7 +239,7 @@
 * rt（如题）
 * ring（戒指）
 * rob（抢，肉，一般指朋友或者熟人之间互相要好装备--不要对不熟悉或者非朋友要东西）
-* req（required/requirement 装备的要求，str，dex，lv等）
+* req（required/requirement 装备的要求，str，dex，lv等，-req指减需求）
 * res/resist（resistance 抗性，四防，通常有人说4R）
 * rp（ren pin 人品，运气的意思）
 * rr（act4第2个任务敲石头）
@@ -233,7 +259,7 @@
 * stamina（耐力值）
 * sf（女巫的静电场技能）
 * str（strength 力量值）
-* sa+（神圣盔甲）
+* sa+（神圣盔甲，防御最高，但力量要求也高）
 * sell（卖东西，玩家之间的交易）
 
 == T
@@ -251,19 +277,22 @@
 * uni（unique 暗金物品）
 * unid（unidentify 未鉴定）
 * USC（Annihilus-Small Charm毁灭-小护身符）
+* uber（超级，uber tristram就是混沌崔斯特瑞姆，6BOSS最后的红门。uber ancient就是新3BB）
 
 == V
 
 * vit（vitality 活力值）
 * vf（very fast 非常快的攻击速度）
+* valk（Valkyrie 亚马逊技能女武神）
 
 == W
 
 * wf（Windfroce Hydra Bow风之力-九头蛇弓，1.09神器）
-* wp（waypoint 传送点）
-* wt（战争之旅，通常用来MF穿的鞋子）
+* wp（waypoint 传送点 ）
+* wt（War Traveler 战争之旅，通常用来MF穿的鞋子）
 * wp up（way point up指的是飞官点了小站让其他队员踩点占门 并回复）
 * wss（世界之石碎片，腐化消耗品）
+* wmj/wmd/wmk/wmyd（谢夫特斯坦布-物免甲/暴风之盾-物免盾/吸血鬼的凝视-物免盔/长串之耳-物免腰带）
 
 == Y
 
