@@ -88,10 +88,12 @@
 * cr(cold resistance 抗寒)
 * cd(cold damage 冰系伤害)
 * cow（牛，KC=kill cow 杀牛的意思）
+* ck（牛王）
 * Crossbow（十字弓）
 * cs（critical strike 双倍打击/colossus sword/critical shot/cobra strike）
 * CtA （110新神符之语，Call to Arms，战争召唤）
 * cube（the Horadric Cube 赫拉迪克方块，常用作动词指用cube转化或者合成物品的行为）
+* cy（通常指暗金单手杖,死亡深度-次元碎片，四神器之一）
 
 == D
 
@@ -129,6 +131,7 @@
 * fhr（faster hit recovery 加快受攻击之后的恢复速度）
 * fe（fire enhanched 火焰强化）
 * frw（faster run/walk 高跑）
+* foh（Fist of the Heavens，也叫foth，圣骑士的天堂之拳技能）
 
 == G
 
@@ -136,6 +139,7 @@
 * gm（game master）
 * GV（Gul Value，交易单位之一，指25号符文古尔）
 * GG（good game，也指毕业装备，海景房，大货）
+* glf（暗金头环，格里风之眼-权冠，四神器之一）
 
 == H
 
@@ -156,7 +160,7 @@
 
 == J
 
-* jew/jw（jewel 珠宝）
+* jew/jw（jewel 珠宝，猪）
 * jp（极品:该物品的属性都达到理论上的最值）
 * js（jian shang 奸商）
 
@@ -196,6 +200,7 @@
 * mp（mana points 魔力值）
 * mr（magic resistance 魔法抵抗）
 * mp+（法师铠甲 白色15ed无孔3孔有用）
+* mara（暗金项链，马拉的万花筒）
 
 == N
 
@@ -212,6 +217,7 @@
 * oak （oak sage 德鲁伊的橡木智者精灵）
 * omg（oh my god 天啊）
 * orb（球类，通常指 sor专属武器眼球或翻译成sor的冰封球技能）
+* ow（Open Wounds，造成开放伤害，会组织怪物回血）
 
 == P
 
@@ -227,13 +233,14 @@
 * pr（poison resistance毒抗）
 * pvc（player vs computer 玩家打电脑，过关等）
 * pvp（player vs player 玩家之间有规则的公平战斗）
-* pw（password 密码）
+* pw（password 密码，p=?就是问你密码是什么）
 * PET（雇佣兵，米山，A2PET就是之第二幕城镇中雇佣的伙伴。也指召唤BD所召唤的宠物）
 * pt（普通难度）
+* py（暗金法杖，死亡之网-破隐法杖，四神器之一）
 
 == Q
 
-* qh（sor的强化技能，通常给低级char使用，提高伤害，加快练级速度）
+* qh（sor的强化技能，通常给低级char使用，提高伤害，加快练级速度，也有的叫eh、en）
 
 == R
 
@@ -271,6 +278,7 @@
 * tp+（神符之语 谜团，有+1传送技能）
 * th（土豪， 指拥有大量财产的人）
 * tt（Titan's Revenge-Ceremonial Javelin 泰坦的复仇-祭奠标枪）
+* tgo（塔格奥套装）
 
 == U
 
