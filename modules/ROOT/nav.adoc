@@ -41,4 +41,9 @@
 ** link:https://wap.gamersky.com/gl/Content-1428532.html[暗黑原版场景等级以及金怪对照,window=_blank]
 * 未完成占位
 ** xref:ama/starter.adoc[亚马逊开荒流程]
+// ** 死灵法师开荒流程
+// ** 法师开荒流程
+// ** 德鲁伊开荒流程
+// ** 圣骑士开荒流程
+// ** 刺客开荒流程
 * xref:doc/reply.adoc[]
