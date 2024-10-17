@@ -40,5 +40,5 @@
 ** link:https://www.projectdiablo2.cn/market[国服交易网站,window=_blank]
 ** link:https://wap.gamersky.com/gl/Content-1428532.html[暗黑原版场景等级以及金怪对照,window=_blank]
 * 未完成占位
-** xref:ama/starter.adoc[]
+** xref:ama/starter.adoc[亚马逊开荒流程]
 * xref:doc/reply.adoc[]
