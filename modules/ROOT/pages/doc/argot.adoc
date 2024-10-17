@@ -136,7 +136,7 @@
 
 == G
 
-* gc（grand charm 超大型护身符）
+* gc（grand charm 超大型护身符，占3个格子的）
 * gm（game master）
 * GV（Gul Value，交易单位之一，指25号符文古尔）
 * GG（good game，也指毕业装备，海景房，大货）
@@ -179,7 +179,7 @@
 
 == L
 
-* lc（large charm 大型护身符）
+* lc（large charm 大型护身符，占2个格子的）
 * ld（lighting damage 电伤害）
 * lr（lightning resistance 电系抵抗）
 * LL（leech life 通常指有吸血属性的装备 ）
@@ -259,7 +259,7 @@
 == S
 
 * skill（技能）
-* sc（small charm 小护身符）
+* sc（small charm 小护身符，占一个格子的）
 * sc（soft core，软核模式，对应HC的硬核模式，也称为标准模式）
 * sd/std（standard 普通模式，相对于hardcord，ladder模式而言）
 * shako（通常指Harlequin Crest Shako，暗金军帽）
