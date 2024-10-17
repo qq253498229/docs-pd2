@@ -17,6 +17,7 @@
 ** xref:nec/corp.adoc[死灵T图:尸爆*]
 ** xref:nec/毒死灵.adoc[死灵BOSS:毒匕首]
 ** xref:nec/召唤T图骷髅.adoc[死灵T图:骷髅]
+** xref:nec/黑暗契约T图.adoc[死灵T图:诅咒]
 ** xref:ama/召唤马6boss.adoc[亚马逊6BOSS:召唤*]
 ** xref:ama/召唤马.adoc[亚马逊T图:召唤]
 ** xref:ama/火焰箭T图.adoc[亚马逊T图:火焰箭]
