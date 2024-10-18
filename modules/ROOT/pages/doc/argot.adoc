@@ -54,7 +54,8 @@
 
 * ban acc（官网GM封闭某些玩家的帐号，理由是他们在游戏中使用了一些官网禁止的外挂）
 * bar/barb（Barbarian 野蛮人）
-* bo（battle orders野蛮人的战斗体制技能）
+* bo（battle orders野蛮人的战斗体制技能，增加血法上限）
+* bc（battle command野蛮人的战斗指挥技能，增加技能等级）
 * bd（build 玩法、流派、配装的统称）
 * bbs（论坛）
 * Blizzard（暴雪娱乐公司）
