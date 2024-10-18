@@ -1,5 +1,6 @@
 * xref:doc/basics.adoc[]
-* xref:doc/starter.adoc[]
+* xref:doc/starter.adoc[开荒流程]
+** xref:ama/starter.adoc[亚马逊开荒流程]
 * xref:doc/argot.adoc[暗黑中的术语和缩写]
 * xref:doc/faq.adoc[]
 * 参考资料
@@ -46,7 +47,6 @@
 ** link:https://www.projectdiablo2.cn/market[国服交易网站,window=_blank]
 ** link:https://wap.gamersky.com/gl/Content-1428532.html[暗黑原版场景等级以及金怪对照,window=_blank]
 * 未完成占位
-** xref:ama/starter.adoc[亚马逊开荒流程]
 ** xref:doc/常用buff.adoc[常用Buff整理]
 // ** 死灵法师开荒流程
 // ** 法师开荒流程
