@@ -4,10 +4,10 @@
 * xref:doc/argot.adoc[暗黑中的术语和缩写]
 * xref:doc/faq.adoc[]
 * 参考资料
-** xref:doc/starter.adoc#pet-buff[雇佣兵光环效果]
-** xref:doc/starter.adoc#kawei[卡位杀虫子]
-** xref:doc/starter.adoc#important-quest[暗黑2必做任务]
-** xref:doc/starter.adoc#exp-get[经验惩罚]
+** xref:doc/pet-buff.adoc[雇佣兵光环效果]
+** xref:doc/kawei.adoc[卡位杀虫子]
+** xref:doc/important-quest.adoc[暗黑2必做任务]
+** xref:doc/exp-get.adoc[经验惩罚]
 * Build推荐
 ** xref:sor/starter-mf-sor.adoc[法师MF:新手推荐*]
 ** xref:sor/冰枪T图.adoc[法师T图:冰枪]
