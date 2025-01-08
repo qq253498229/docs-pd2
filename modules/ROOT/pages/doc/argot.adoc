@@ -121,6 +121,7 @@
 * exp（experience 经验值）
 * es（Energy Shield，能量护盾，法师技能顶球）
 * em（噩梦难度）
+* eg（怪物金币掉落量提高，打钱BD会用到）
 
 == F
 
