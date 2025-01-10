@@ -256,6 +256,7 @@
 * rr（act4第2个任务敲石头）
 * rune（神符的总称）
 * rw（rune word 神符之语）
+* run（faster run/walk 高跑frw的另一个用法）
 
 == S
 
