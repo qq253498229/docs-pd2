@@ -1,5 +1,6 @@
 * xref:doc/basics.adoc[]
 * xref:doc/starter.adoc[开荒流程]
+** xref:sor/starter.adoc[法师开荒流程]
 ** xref:ama/starter.adoc[亚马逊开荒流程]
 * xref:doc/argot.adoc[暗黑中的术语和缩写]
 * xref:doc/faq.adoc[]
