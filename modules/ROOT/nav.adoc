@@ -37,6 +37,7 @@
 ** xref:pal/圣火冲锋.adoc[圣骑士T图:圣火冲锋(火焰号叫+飞龙)]
 ** xref:pal/庇护所冲锋.adoc[圣骑士T图:庇护所冲锋(单手+盾)]
 ** xref:pal/双手物理冲锋.adoc[圣骑士大马:双手物理冲锋]
+** xref:pal/S10冲锋圣电.adoc[圣骑士T图:S10冲锋圣电]
 ** xref:asn/物理刀刃陷阱.adoc[刺客T图:物理刀刃陷阱]
 ** xref:asn/火焰复苏陷阱.adoc[刺客T图:火焰复苏陷阱]
 ** xref:bar/唱歌.adoc[野蛮人T图:唱歌]
