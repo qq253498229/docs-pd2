@@ -26,6 +26,7 @@
 ** xref:ama/冰箭T图.adoc[亚马逊T图:冰箭]
 ** xref:ama/召唤马6boss.adoc[亚马逊火炬:召唤*]
 ** xref:ama/瘟疫标枪.adoc[亚马逊大黑大马:瘟疫标枪]
+** xref:ama/小炮.adoc[亚马逊T图:S10小炮]
 ** xref:dru/冰德T图.adoc[德鲁伊T图:极地风暴+暴风*]
 ** xref:dru/动物园.adoc[德鲁伊T图:动物园]
 ** xref:dru/火山T图.adoc[德鲁伊T图:火山]
@@ -38,6 +39,7 @@
 ** xref:asn/物理刀刃陷阱.adoc[刺客T图:物理刀刃陷阱]
 ** xref:asn/火焰复苏陷阱.adoc[刺客T图:火焰复苏陷阱]
 ** xref:bar/唱歌.adoc[野蛮人T图:唱歌]
+** xref:bar/S10唱歌.adoc[野蛮人T图:S10唱歌]
 ** xref:bar/狂战士6BOSS.adoc[野蛮人火炬:狂战士]
 * 外链
 ** link:https://wiki.projectdiablo2.cn/wiki/%E9%A6%96%E9%A1%B5[国服Wiki,window=_blank]
