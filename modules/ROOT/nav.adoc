@@ -30,6 +30,7 @@
 ** xref:ama/小炮.adoc[亚马逊T图:S10小炮]
 ** xref:dru/冰德T图.adoc[德鲁伊T图:极地风暴+暴风*]
 ** xref:dru/动物园.adoc[德鲁伊T图:动物园]
+** xref:dru/S10四熊.adoc[德鲁伊T图:S10四熊]
 ** xref:dru/火山T图.adoc[德鲁伊T图:火山]
 ** xref:dru/毒狼T图.adoc[德鲁伊T图:狂犬病]
 ** xref:dru/狂怒狼德.adoc[德鲁伊大黑大马:狂怒*]
