@@ -27,7 +27,7 @@
 ** xref:ama/冰箭T图.adoc[亚马逊T图:冰箭]
 ** xref:ama/召唤马6boss.adoc[亚马逊火炬:召唤*]
 ** xref:ama/瘟疫标枪.adoc[亚马逊大黑大马:瘟疫标枪]
-// ** xref:ama/小炮.adoc[亚马逊T图:S10小炮]
+** xref:ama/小炮.adoc[亚马逊T图:S10小炮]
 ** xref:dru/冰德T图.adoc[德鲁伊T图:极地风暴+暴风*]
 ** xref:dru/动物园.adoc[德鲁伊T图:动物园]
 ** xref:dru/S10四熊.adoc[德鲁伊T图:S10四熊]
