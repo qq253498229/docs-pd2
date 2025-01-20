@@ -110,7 +110,7 @@
 * dr（damage reduce 减轻物理伤害， 俗称物免）
 * ds（deadly strike 致命一击。也指东西扔地上了）
 * dual/dual leech（双吸，既能吸mana又能吸life的装备）
-* dt（掉落，2dt即为双倍掉落）
+* dt（Drop Treasure掉落宝物，2dt即为双倍掉落）
 * dy（地狱难度）
 
 == E
