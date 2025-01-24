@@ -1,6 +1,6 @@
 = 死灵T图:S10火魔
 
-原视频地址: https://www.youtube.com/watch?v=zmP7VrF_wvs[https://www.youtube.com/watch?v=pgE5MIZAeSY]
+原视频地址: https://www.youtube.com/watch?v=zmP7VrF_wvs
 
 == 装备
 
@@ -16,7 +16,7 @@
 
 == 技能
 
-* 召唤：支配石魔max+4石魔max+血新星到30左右+复生1
+* 召唤：支配石魔max+4石魔max+血次元进战斗30+复生1
 * 毒骨：骨甲1
 
 == 综合
