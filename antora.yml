@@ -6,7 +6,7 @@ nav:
   - modules/ROOT/nav.adoc
 asciidoc:
   attributes:
-    page-toclevels: 3
+    page-toclevels: 3@
     page-toctitle: 目录
     sectnums: 6
     toc-title: 目录

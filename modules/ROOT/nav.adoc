@@ -55,6 +55,7 @@
 ** link:https://wap.gamersky.com/gl/Content-1428532.html[暗黑原版场景等级以及金怪对照,window=_blank]
 * 未完成占位
 ** xref:doc/常用buff.adoc[常用Buff整理]
+** xref:rank/s10.adoc[S10赛季Build排行榜]
 // ** 死灵法师开荒流程
 // ** 法师开荒流程
 // ** 德鲁伊开荒流程
