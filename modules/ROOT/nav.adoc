@@ -60,6 +60,39 @@
 ** link:https://wap.gamersky.com/gl/Content-1428532.html[暗黑原版场景等级以及金怪对照,window=_blank]
 * 未完成占位
 ** xref:doc/常用buff.adoc[常用Buff整理]
+
+// https://www.youtube.com/watch?v=_3pVo7tQhKA
+// S10复仇圣骑士
+// https://www.youtube.com/watch?v=rR6nDAtaqBs
+// S10祝福之锤圣骑士
+
+// https://www.youtube.com/watch?v=N3Kkf3tqOm8
+// S10火山德鲁伊
+// https://www.youtube.com/watch?v=ps5mKEL6MbE
+// S10风德
+// https://www.youtube.com/watch?v=RIqGn9EMfNA
+// S10旋风狂怒狼德
+
+// https://www.youtube.com/watch?v=2eJ4VzEHhaI
+// S10寒冰刃刺客
+// https://www.youtube.com/watch?v=umKRr33fXLE
+// S10龙爪刺客
+
+// https://www.youtube.com/watch?v=1h-kZsswrnI
+// S10多重射击亚马逊
+// https://www.youtube.com/watch?v=0yF-WmfZ_Yg
+// S10闪电之怒亚马逊
+
+// https://www.youtube.com/watch?v=vrNuk38LWsc
+// S10狂喜跳跃蛮子
+
+// https://www.youtube.com/watch?v=kYIo4qNxJzg
+// S10火环法师200FCR
+// https://www.youtube.com/watch?v=67R385W4vEE
+// S10冰新星法师200FCR
+// https://www.youtube.com/watch?v=a1ThZjeQbK8
+// S10强化熊法师法师-乌迪西安盾
+
 // ** 死灵法师开荒流程
 // ** 法师开荒流程
 // ** 德鲁伊开荒流程
