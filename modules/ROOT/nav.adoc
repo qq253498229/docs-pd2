@@ -45,6 +45,7 @@
 ** xref:bar/唱歌.adoc[野蛮人T图:唱歌]
 ** xref:bar/S10唱歌.adoc[野蛮人T图:S10唱歌]
 ** xref:bar/狂战士6BOSS.adoc[野蛮人火炬:狂战士]
+* xref:rank/s10.adoc[S10赛季Build排行榜]
 * 外链
 ** link:https://wiki.projectdiablo2.cn/wiki/%E9%A6%96%E9%A1%B5[国服Wiki,window=_blank]
 ** link:https://betweenwalls.github.io/portal/?v=PD2[PD2加点模拟器,window=_blank]
@@ -55,7 +56,6 @@
 ** link:https://wap.gamersky.com/gl/Content-1428532.html[暗黑原版场景等级以及金怪对照,window=_blank]
 * 未完成占位
 ** xref:doc/常用buff.adoc[常用Buff整理]
-** xref:rank/s10.adoc[S10赛季Build排行榜]
 // ** 死灵法师开荒流程
 // ** 法师开荒流程
 // ** 德鲁伊开荒流程
