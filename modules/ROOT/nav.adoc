@@ -47,6 +47,7 @@
 ** xref:pal/S10牺牲圣冰1.adoc[圣骑士T图:S10冰牺牲(高配)]
 ** xref:asn/物理刀刃陷阱.adoc[刺客T图:物理刀刃陷阱]
 ** xref:asn/火焰复苏陷阱.adoc[刺客T图:火焰复苏陷阱]
+** xref:asn/S10凤凰攻击.adoc[刺客T图:S10凤凰攻击]
 ** xref:bar/唱歌.adoc[野蛮人T图:唱歌]
 ** xref:bar/S10唱歌.adoc[野蛮人T图:S10唱歌]
 ** xref:bar/狂战士6BOSS.adoc[野蛮人火炬:狂战士]
