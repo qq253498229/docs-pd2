@@ -14,6 +14,7 @@
 ** xref:sor/冰枪T图.adoc[法师T图:冰枪]
 ** xref:sor/陨石.adoc[法师T图:陨石]
 ** xref:sor/顶球冰新星.adoc[法师T图:顶球冰新星]
+** xref:sor/S10冰新星.adoc[法师T图:S10冰新星]
 ** xref:sor/顶球电新星.adoc[法师T图:顶球电新星]
 ** xref:sor/九头蛇.adoc[法师大黑:九头蛇]
 ** xref:sor/暴风雪拉斯玛.adoc[法师大马:暴雪+冰弹]
