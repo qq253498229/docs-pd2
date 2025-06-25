@@ -9,6 +9,8 @@
 ** xref:doc/kawei.adoc[卡位杀虫子]
 ** xref:doc/important-quest.adoc[暗黑2必做任务]
 ** xref:doc/exp-get.adoc[经验惩罚]
+* S11 Build推荐
+** xref:sor/s11-nova.adoc[S11新星]
 * Build推荐
 ** xref:sor/starter-mf-sor.adoc[法师MF:新手推荐*]
 ** xref:sor/冰枪T图.adoc[法师T图:冰枪]
